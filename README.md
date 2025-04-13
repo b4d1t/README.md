@@ -20,8 +20,9 @@ Mi pasión por la **ciberseguridad** me ha llevado a explorar diversas herramien
 - Buscando certificaciones en **hacking ético** y mejorando mis habilidades en **pentesting web** y análisis de vulnerabilidades.
 
 ## **Contacto**
-- **Telegram**: [Tu Telegram aquí]
-- **Correo electrónico**: [b4d1t@proton.me](mailto:b4d1t@proton.me)
+- **Telegram**: 
+- **ProtonMail**: [b4d1t@proton.me](mailto:b4d1t@proton.me)
+- **Mail2tor**: [b4d1t@mail2tor.com](mailto:b4d1t@mail2tor.com)
 - **Clave GPG**:
 ---
 
